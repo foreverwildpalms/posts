@@ -1,0 +1,8 @@
+.myBtn {
+    width: 100%;
+    max-width: 120px;
+    height: 30px;
+    background: #f1e9de;
+    border: none;
+    border-radius: 5px;
+}
