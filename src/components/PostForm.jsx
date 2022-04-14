@@ -25,7 +25,7 @@ const PostForm = ({create}) => {
             <MyInput
                 type="text"
                 value={post.body}
-                placeholder="Название поста"
+                placeholder="Текст поста"
                 onChange={e => setPost({...post, body: e.target.value})}/>
             <MyButton onClick={addNewPost}>Создать пост</MyButton>
         </form>

@@ -23,12 +23,3 @@
 .post__text {
     font-size: 18px;
 }
-
-.post__btn {
-    width: 100%;
-    max-width: 120px;
-    height: 30px;
-    background: #d9e9ec;
-    border: none;
-    border-radius: 5px;
-}
